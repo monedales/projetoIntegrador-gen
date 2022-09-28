@@ -13,7 +13,7 @@
 </h4>
 
 <a name="objetivo"><h2>Objetivos do Projeto</h2></a>
-<p>Trazer visibilidade para a conscientização, ambientes seguros e acolhedores que são preparados para famílias PCD e conexões entre famílias e pessoas para um ambiente de acolhimento.</p>
+<p>Trazer visibilidade social através de uma Rede Social voltada para a conscientização e comunicação de ambientes seguros e adequados para famílias PCD, gerando vínculo e identificação entre usuários PCD's, para que se sintam incluídos.</p>
 
 <a name="motivacoes"><h2>Motivações do Projeto</h2></a>
 <h3>Por que?❓</h3>
@@ -25,7 +25,10 @@
 <h3>O quê? ✍🏻 </h3>
 <p>As habilidades de interação e comunicação são os pilares do projeto. Assim nos direcionando ao nosso principal objetivo que é trazer um canal de atualizações e comunicação para avisar sobre ambientes seguros, receptivos para essas famílias e encontros de interação.</p>
 
-
+<a name="ferramentas"><h2>Ferramentas Utilizadas</h2></a>
+* Java/Spring para Back-end; 
+* MySQL para Banco de Dados
+* React e Angular para Front-end
   
 
  
