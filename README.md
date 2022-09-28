@@ -13,7 +13,7 @@
 </h4>
 
 <a name="objetivo"><h2>Objetivos do Projeto</h2></a>
-<p>Trazer visibilidade social através de uma Rede Social voltada para a conscientização e comunicação de ambientes seguros e adequados para famílias PCD, gerando vínculo e identificação entre usuários PCD's, para que se sintam incluídos.</p>
+<p>Trazer visibilidade e destacar a causa de comunidades sustentáveis através de uma Rede Social voltada para a conscientização e comunicação de ambientes seguros e adequados para famílias PCD, gerando vínculo e identificação entre usuários PCD's, para que se sintam incluídos.</p>
 
 ### Features
 
