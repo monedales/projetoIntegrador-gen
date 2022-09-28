@@ -15,6 +15,12 @@
 <a name="objetivo"><h2>Objetivos do Projeto</h2></a>
 <p>Trazer visibilidade social através de uma Rede Social voltada para a conscientização e comunicação de ambientes seguros e adequados para famílias PCD, gerando vínculo e identificação entre usuários PCD's, para que se sintam incluídos.</p>
 
+### Features
+
+- [x] Modelando o Banco de Dados da Rede social;
+- [ ] Integração com Spring/Java;
+- [ ] Desenvolvimento no Front web; 
+
 <a name="motivacoes"><h2>Motivações do Projeto</h2></a>
 <h3>Por que?❓</h3>
 <p>Porque queremos uma sociedade igualitária e acessível a todos. E parte da comunidade PCD enfrenta problemas emocionais e essa conexão ajudará a reduzir o peso emocional de toda a situação, com a interação entre pessoas que passam pela mesma situação.</p>
@@ -25,10 +31,10 @@
 <h3>O quê? ✍🏻 </h3>
 <p>As habilidades de interação e comunicação são os pilares do projeto. Assim nos direcionando ao nosso principal objetivo que é trazer um canal de atualizações e comunicação para avisar sobre ambientes seguros, receptivos para essas famílias e encontros de interação.</p>
 
-<a name="ferramentas"><h2>Ferramentas Utilizadas</h2></a>
+<a name="ferramentas"><h2>Ferramentas e tecnologias utilizadas 🔧</h2></a>
 * Java/Spring para Back-end; 
-* MySQL para Banco de Dados
-* React e Angular para Front-end
+* MySQL para Banco de Dados;
+* React e Angular para Front-end.
   
 
  
