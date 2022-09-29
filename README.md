@@ -48,11 +48,11 @@
 
 <a name="autoras"><h2>Autoras do Projeto</h2></a>  
 * Cristaly Medeiros [@CristalyA](https://github.com/cristalyA)
-* Dellis de Souza Oliveira (@Liisz)
-* Eliane dos Santos Pereira Silva (@eliane-sp-silva)
-* Juliana Nonaka Udvari (@juliana-nonaka)
-* Leticia Santos (@leticiasantos94)
-* Leticia Moneda (@monedales)
-* Lucy Suxo (@LucySuxo)
-* Paula Mayumi (@mayumisiano)
+* Dellis de Souza Oliveira [@Liisz](https://github.com/Liisz)
+* Eliane dos Santos Pereira Silva [@eliane-sp-silva](https://github.com/eliane-sp-silva)
+* Juliana Nonaka Udvari [@juliana-nonaka](https://github.com/juliana-nonaka)
+* Leticia Santos [@leticiasantos94](https://github.com/leticiasantos94)
+* Leticia Moneda [@monedales](https://github.com/monedales)
+* Lucy Suxo [@LucySuxo](https://github.com/LucySuxo)
+* Paula Mayumi [@mayumisiano](https://github.com/mayumisiano)
  
