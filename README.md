@@ -47,7 +47,7 @@
  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 
 <a name="autoras"><h2>Autoras do Projeto</h2></a>  
-* Cristaly Medeiros (@CristalyA)
+* [Cristaly Medeiros](@CristalyA)
 * Dellis de Souza Oliveira (@Liisz)
 * Eliane dos Santos Pereira Silva (@eliane-sp-silva)
 * Juliana Nonaka Udvari (@juliana-nonaka)
