@@ -46,7 +46,7 @@
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 
-<a href="#autoras"><h2>Autoras do Projeto</h2></a>  
+<a name="#autoras"><h2>Autoras do Projeto</h2></a>  
 * Cristaly Medeiros (@CristalyA)
 * Dellis de Souza Oliveira (@Liisz)
 * Eliane dos Santos Pereira Silva (@eliane-sp-silva)
