@@ -17,9 +17,10 @@
 
 ### Features
 
-- [x] Modelando o Banco de Dados da Rede social com MySQL;
+- [x] Documentação dos principais pontos do projeto;
+- [x] Modelando o DER do Banco de Dados com MySQL;
 - [ ] Integração com Spring/Java;
-- [ ] Desenvolvimento no Front web. 
+- [ ] Desenvolvimento no Front web com HTML, CSS e frameworks. 
 
 <a name="motivacoes"><h2>Motivações do Projeto</h2></a>
 <h3>Por que?❓</h3>
