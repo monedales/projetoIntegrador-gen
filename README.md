@@ -21,6 +21,7 @@
 - [x] Documentação dos principais pontos do projeto;
 - [x] Modelando o DER do Banco de Dados com MySQL;
 - [ ] Integração com Spring/Java;
+	[ ] Criação das Tabelas; 
 - [ ] Desenvolvimento no Front web com HTML, CSS e frameworks. 
 
 <a name="motivacoes"><h2>Motivações do Projeto</h2></a>
