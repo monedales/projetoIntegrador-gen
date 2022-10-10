@@ -5,7 +5,8 @@
 <p align="center"> •
  <a href="#objetivo">Objetivos</a> •
  <a href="#motivacoes">Motivações do Projeto</a> •
- <a href="#ferramentas">Ferramentas Utilizadas</a>  
+ <a href="#ferramentas">Ferramentas Utilizadas</a> •
+ <a href="#autoras">Autoras do Projeto</a>  
 </p>
 
 <h4 align="center"> 
@@ -17,9 +18,12 @@
 
 ### Features
 
-- [x] Modelando o Banco de Dados da Rede social com MySQL;
-- [ ] Integração com Spring/Java;
-- [ ] Desenvolvimento no Front web. 
+- [x] Documentação dos principais pontos do projeto;
+- [x] Modelando o DER do Banco de Dados com MySQL;
+- [x] Integração com Spring/Java;
+- 	[x] 1. Criação do CRUD para a parte de Temas;
+- 	[x] 2. Criação do CRUD para a parte de Postagens;
+- [ ] Desenvolvimento no Front web com HTML, CSS e frameworks. 
 
 <a name="motivacoes"><h2>Motivações do Projeto</h2></a>
 <h3>Por que?❓</h3>
@@ -34,15 +38,23 @@
 <a name="ferramentas"><h2>Ferramentas e tecnologias utilizadas 🔧</h2></a>
 * Java/Spring para Back-end; 
 * MySQL para Banco de Dados;
-* React e Angular para Front-end. 
+* HTML, CSS, React e Angular para Front-end. 
   
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+ ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 
-
-
+<a name="autoras"><h2>Autoras do Projeto 🧑🏻‍💻</h2></a>  
+* Cristaly Medeiros | [@CristalyA](https://github.com/cristalyA)
+* Dellis de Souza Oliveira | [@Liisz](https://github.com/Liisz)
+* Eliane dos Santos Pereira Silva | [@eliane-sp-silva](https://github.com/eliane-sp-silva)
+* Juliana Nonaka Udvari | [@juliana-nonaka](https://github.com/juliana-nonaka)
+* Leticia Santos | [@leticiasantos94](https://github.com/leticiasantos94)
+* Leticia Moneda | [@monedales](https://github.com/monedales)
+* Lucy Suxo | [@LucySuxo](https://github.com/LucySuxo)
+* Paula Mayumi | [@mayumisiano](https://github.com/mayumisiano)
  
