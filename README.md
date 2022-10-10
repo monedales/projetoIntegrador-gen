@@ -21,8 +21,8 @@
 - [x] Documentação dos principais pontos do projeto;
 - [x] Modelando o DER do Banco de Dados com MySQL;
 - [x] Integração com Spring/Java;
--     [x] 1. Criação do CRUD para a parte de Temas;
--     [x] 2. Criação do CRUD para a parte de postagens;
+- [x] 1. Criação do CRUD para a parte de Temas;
+- [x] 2. Criação do CRUD para a parte de Postagens;
 - [ ] Desenvolvimento no Front web com HTML, CSS e frameworks. 
 
 <a name="motivacoes"><h2>Motivações do Projeto</h2></a>
