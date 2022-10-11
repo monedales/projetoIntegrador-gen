@@ -4,7 +4,7 @@
 
 <p align="center"> •
  <a href="#objetivo">Objetivos</a> •
- <a href="#ods">Objetivos de Desenvolvimento Sustentável</a>
+ <a href="#ods">ODS</a> •
  <a href="#motivacoes">Motivações do Projeto</a> •
  <a href="#ferramentas">Ferramentas Utilizadas</a> •
  <a href="#autoras">Autoras do Projeto</a>  
