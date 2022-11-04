@@ -1,5 +1,7 @@
 <h1 align=center> Projeto Integrador - Bootcamp Java Full Stack 💻 </h1>
 
+<h1 align=center> DiverCittà </h1>
+
 <p align=center> Desenvolvimento de uma Rede social com o intuito de construir comunidades mais sustentáveis para pessoas PCDs 🧑🏻‍🦼</p>
 
 <p align="center"> •
@@ -55,7 +57,6 @@
 
 <a name="autoras"><h2>Autoras do Projeto 🧑🏻‍💻</h2></a>  
 * Cristaly Medeiros | [@CristalyA](https://github.com/cristalyA)
-* Dellis de Souza Oliveira | [@Liisz](https://github.com/Liisz)
 * Eliane dos Santos Pereira Silva | [@eliane-sp-silva](https://github.com/eliane-sp-silva)
 * Juliana Nonaka Udvari | [@juliana-nonaka](https://github.com/juliana-nonaka)
 * Leticia Santos | [@leticiasantos94](https://github.com/leticiasantos94)
